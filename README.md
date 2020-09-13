@@ -2,7 +2,7 @@
 Проект создан с помощью CRA  
 Основная задача - работа с React и Redux  
 
-Demo - https://danielesh.github.io/e-commerce-shop/
+Demo - http://f0467448.xsph.ru/
 
 Используемые технологии:  
 React  
